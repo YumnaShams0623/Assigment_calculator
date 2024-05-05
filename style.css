@@ -1,0 +1,112 @@
+body{
+margin-top: 150px;
+
+
+}
+
+form{
+    border: 10px solid hsla(0, 0%, 0%, 0);
+    box-shadow: 20px 30px 21px 20px #35352a;
+    width: 25%;
+    height: 410px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #1b1717;
+    border-radius: 6%;
+    font-family:'Courier New'
+
+}
+button{
+    align-items: center;
+    width: 52px;
+    height: 51px;
+    margin: 8px;
+    border-radius: 10px;
+    border: 7px solid #393939ae; 
+    box-shadow: 1px 3px 1px 4px rgb(46, 44, 44);
+    background-color: #4d4f4f;
+    color: #ffffff;
+    font-size: larger;
+    font-weight: bolder;
+    
+}
+#Clear{
+width:130px ;
+/* background-color: #ff0000; */
+/* background: -webkit-gradient(linear, right top,  */
+ /* left bottom, from(white), to(red)); */
+color: #ffffff;
+border: 4px solid #cb2525;
+box-shadow: 2px 3px 2px 2px #e02323;
+background: -webkit-gradient(linear, right bottom, left top, 
+ from(rgb(210, 94, 94)), to(red))
+
+}
+.plus{
+height: 140px;
+width: 50px;
+margin-left: 230px;
+display: inline-block;
+margin-top: 3px;
+position: absolute;
+right: 39%;
+
+}
+
+.div1{
+    margin-top: -10px;
+   margin-left: 10px;
+}
+.div2{
+    margin-top:-10px ;
+    margin-left: 1px;
+}
+.div3{
+    margin-top: 3px;
+    margin-left: -70px;
+    }
+#text{
+   height: 60px;
+   text-align: right;
+   width:270px ;
+   margin-top: 9px;
+   border-radius: 8px;
+   font-size: x-large;
+   font-weight: 700;
+   background-color: rgb(144, 166, 110);
+}
+#equal{
+    /* background-color: #0798ffe0; */
+     background: -webkit-gradient(linear,left bottom, right center, from(#00bdfc), to(#afccd7));
+     border: 5px solid #0189ea;
+     box-shadow: 1px 2px 1px 2px rgba(12, 116, 181, 0.646)
+}
+.main{
+    margin-top: 20px;
+}
+button:hover{
+    
+    width: 60px;
+    background-color:rgb(144, 166, 110);
+    color: #010000;
+    border: 2px solid rgb(251, 255, 0);
+    transition-property: width;
+   
+}
+h4{
+    /* border: 2px solid rgb(19, 19, 26); */
+    border-radius: 10px;
+    box-shadow: 10px 8px 2px 4px rgba(104, 104, 100, 0.466);
+    width: 250px;
+    height: 21px;
+    padding: 5px;
+    text-align: center;
+    padding-right: 3px;
+    margin-top: -60px;
+   background-color: #0189ea;
+    color: white;
+}
+
+    
